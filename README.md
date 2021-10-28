@@ -3,9 +3,9 @@ This repo contains dashboards that Splunk Enterprise Security customers who have
 
 risk_attributions.xml:  The Investigative dashboard built on top of the Risk Analysis Dashboard
 
-audit_attribution_aalytics:  A dashboard containin multiple views offering insight into the tuning process
+audit_attribution_analytics:  A dashboard containin multiple views offering insight into the tuning process
 
-attack_matrix_risk_view:  A dashboard offering insight into buisness drivers such as MITRE ATT&CK techniques both covered and obverved in an environment, tactic/techniques over time, or scoring by tag.
+attack_matrix_risk_view:  A dashboard offering insight into buisness drivers such as MITRE ATT&CK techniques both covered and obverved in an environment, tactics/techniques over time, or scoring by tag.
 
 
 ## Dependencies
