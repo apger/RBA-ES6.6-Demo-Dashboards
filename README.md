@@ -1,6 +1,6 @@
 # RBA-ES6.6-Demo-Dashboards (DEPRECATED)
 
-This reference app is no longer supported but fear not, RBA is still thriving.  Haylee Mills is at the helm and maintaining a fork of this repo.  Check it out [here](https://github.com/7thdrxn/RBA-ES6.6-Demo-Dashboards).  
+I am no longer supporting these reference dashboards but fear not, RBA is still thriving.  Haylee Mills is at the helm and maintaining a fork of this repo.  Check it out [here](https://github.com/7thdrxn/RBA-ES6.6-Demo-Dashboards).  
 
 This repo contains dashboards that Splunk Enterprise Security customers who have deployed Risk-Based Alerting (RBA) may find useful. 
 
